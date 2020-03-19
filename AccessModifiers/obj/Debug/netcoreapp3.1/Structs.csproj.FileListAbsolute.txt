@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\bin\Debug\netcoreapp3.1\Structs.exe
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\bin\Debug\netcoreapp3.1\Structs.deps.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\bin\Debug\netcoreapp3.1\Structs.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\bin\Debug\netcoreapp3.1\Structs.pdb
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\obj\Debug\netcoreapp3.1\Structs.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\obj\Debug\netcoreapp3.1\Structs.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\obj\Debug\netcoreapp3.1\Structs.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\obj\Debug\netcoreapp3.1\Structs.pdb
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\AccessModifiers\obj\Debug\netcoreapp3.1\Structs.csprojAssemblyReference.cache
