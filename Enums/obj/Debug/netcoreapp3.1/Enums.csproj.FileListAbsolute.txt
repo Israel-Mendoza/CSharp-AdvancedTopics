@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
