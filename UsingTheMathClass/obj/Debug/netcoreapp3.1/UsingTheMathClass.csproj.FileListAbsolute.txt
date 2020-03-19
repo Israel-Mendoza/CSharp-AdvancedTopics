@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\bin\Debug\netcoreapp3.1\UsingTheMathClass.exe
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\bin\Debug\netcoreapp3.1\UsingTheMathClass.deps.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\bin\Debug\netcoreapp3.1\UsingTheMathClass.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\bin\Debug\netcoreapp3.1\UsingTheMathClass.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\bin\Debug\netcoreapp3.1\UsingTheMathClass.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\bin\Debug\netcoreapp3.1\UsingTheMathClass.pdb
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\obj\Debug\netcoreapp3.1\UsingTheMathClass.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\obj\Debug\netcoreapp3.1\UsingTheMathClass.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\obj\Debug\netcoreapp3.1\UsingTheMathClass.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\obj\Debug\netcoreapp3.1\UsingTheMathClass.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheMathClass\obj\Debug\netcoreapp3.1\UsingTheMathClass.pdb
