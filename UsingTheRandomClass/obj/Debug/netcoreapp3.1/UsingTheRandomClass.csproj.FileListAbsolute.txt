@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\bin\Debug\netcoreapp3.1\UsingTheRandomClass.exe
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\bin\Debug\netcoreapp3.1\UsingTheRandomClass.deps.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\bin\Debug\netcoreapp3.1\UsingTheRandomClass.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\bin\Debug\netcoreapp3.1\UsingTheRandomClass.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\bin\Debug\netcoreapp3.1\UsingTheRandomClass.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\bin\Debug\netcoreapp3.1\UsingTheRandomClass.pdb
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\obj\Debug\netcoreapp3.1\UsingTheRandomClass.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\obj\Debug\netcoreapp3.1\UsingTheRandomClass.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\obj\Debug\netcoreapp3.1\UsingTheRandomClass.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\obj\Debug\netcoreapp3.1\UsingTheRandomClass.pdb
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\UsingTheRandomClass\obj\Debug\netcoreapp3.1\UsingTheRandomClass.csprojAssemblyReference.cache
