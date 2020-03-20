@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\bin\Debug\netcoreapp3.1\WorkingWithDateTimes.exe
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\bin\Debug\netcoreapp3.1\WorkingWithDateTimes.deps.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\bin\Debug\netcoreapp3.1\WorkingWithDateTimes.runtimeconfig.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\bin\Debug\netcoreapp3.1\WorkingWithDateTimes.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\bin\Debug\netcoreapp3.1\WorkingWithDateTimes.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\bin\Debug\netcoreapp3.1\WorkingWithDateTimes.pdb
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\obj\Debug\netcoreapp3.1\WorkingWithDateTimes.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\obj\Debug\netcoreapp3.1\WorkingWithDateTimes.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\obj\Debug\netcoreapp3.1\WorkingWithDateTimes.AssemblyInfo.cs
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\obj\Debug\netcoreapp3.1\WorkingWithDateTimes.dll
+C:\Users\Israel Mendoza\source\repos\AdvancedCSharpTopics\WorkingWithDateTimes\obj\Debug\netcoreapp3.1\WorkingWithDateTimes.pdb
